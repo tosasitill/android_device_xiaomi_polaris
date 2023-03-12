@@ -27,12 +27,13 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 
 RICE_CHIPSET := sdm845
+RICE_DEVICE := MI MIX 2S
 
 RICE_MAINTAINER := "tosasitill
 
 SUSHI_BOOTANIMATION := 1080
 
-#adapt for polaris 
+# adapt for polaris 
 # WITH GMS
 
 WITH_GMS := true
